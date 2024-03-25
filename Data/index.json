@@ -1,0 +1,186 @@
+{
+    "Education":[
+        {
+            "id": 1,
+            "year":2019,
+            "description":"I held an intern position within the companies' finance department.",
+            "place":"Mayfair Real Estate"
+        },
+        {
+            "id":2,
+            "year":2020,
+            "description":"I completed Matric with a Bachelor's Pass.",
+            "place":"Livingstone High School"
+        },
+        {
+            "id":3,
+            "year":2021,
+            "description":"Studied mechanical engineering and completed N2. I recieved certifications for first aid and safety officer.",
+            "place":"AESDP"       
+        },
+        {
+            "id":4,
+            "year":2022,
+            "description":"Worked as an apprentice in the engineering industry.",
+            "place":"Toyota Rondebosch East"
+        },
+        {
+            "id":5,
+            "year":2022,
+            "description":"Worked as a junior motor technician.",
+            "place":"Adnaan Klein Motor Repairs"
+        },
+        {
+            "id":6,
+            "year":2023,
+            "description":"Sales representative",
+            "place":"Solo Cloud Distributions."
+        },
+        {
+            "id":7,
+            "year":2023,
+            "description":"Learnt how to build full-stack applications.",
+            "place":"Life Choices Academy"
+        },
+        {
+            "id":8,
+            "year":2024,
+            "description":"AWS cloud computing certifications and CISCO security certifications.",
+            "place":"Life Choices Studio"
+        }
+    ],
+    "softskills":[
+        {
+            "title":"Communication Skills",
+            "description":" Clear and effective communication with team members for conveying ideas, discussing requirements, and addressing issues."
+        },
+        {
+            "title":"Problem-Solving Abilities",
+            "description":"The ability to analyze complex problems, break them down into manageable parts, and devise efficient solutions."
+        },
+        {
+            "title":"Adaptability",
+            "description":"Being adaptable to changes and willing to learn new skills."
+        },
+        {
+            "title":"Time Management",
+            "description":"Managing time effectively, setting realistic deadlines, and prioritizing tasks."
+        },
+        {
+            "title":"Leadership Skills",
+            "description":"Even if not in a formal leadership role, the ability to inspire and motivate team members, take initiative, and provide direction can contribute to project success."
+        }
+    ],
+    "techskills":[
+        {
+            "tech":"HTML 5",
+            "image":"https://iili.io/JhL1hAJ.png"
+        },
+        {
+            "tech":"CSS",
+            "image":"https://iili.io/JhLE3iB.png"
+        },
+        {
+            "tech":"JavaScript",
+            "image":"https://iili.io/JhLERfI.png"
+        },
+        {
+            "tech":"MySQL",
+            "image":"https://iili.io/JhtMAmX.png"
+        },
+        {
+            "tech":"Bootstrap",
+            "image":"https://iili.io/JhtXHg4.png"
+        },
+        {
+            "tech":"Node JS",
+            "image":"https://iili.io/JhtNltI.png"
+        },
+        {
+            "tech":"Vue JS",
+            "image":"https://iili.io/JhtSbfI.png"
+        }
+    ],
+    "projects":[
+        {
+            "assignment":"Paw Care",
+            "info":"Built the API for this ecommerce website using Node JS.",
+            "image":"https://iili.io/Jhtbfu2.png",
+            "github":"https://github.com/zubairmoerat/Paw_Care.git",
+            "livelink":"https://pawcare-45bdc.web.app/"
+        },
+        {
+            "assignment":"Fitness Fusion",
+            "info":"Fully functional ecommerce website that I built using HTML,CSS and JavaScript.",
+            "image":"https://iili.io/JhDqUBf.png",
+            "github":"https://github.com/zubairmoerat/javaScript-EOMP.git",
+            "livelink":"https://java-script-eomp.vercel.app/"
+        },
+        {
+            "assignment":"Netflix Clone",
+            "info":"Built the design of the original Netflix log in and sign up page.",
+            "image":"https://iili.io/JhDCixe.png",
+            "github":"https://github.com/zubairmoerat/Netflix.git",
+            "livelink":"https://netflix-xi-seven.vercel.app/"
+        },
+        {
+            "assignment":"BMI Calculator",
+            "info":"This is a functional body mass index calculator that I made using JavaScript.",
+            "image":"https://iili.io/JhDIFjI.png",
+            "github":"https://github.com/zubairmoerat/BMIcalculator.git",
+            "livelink":"https://bm-icalculator-iota.vercel.app/"
+        },
+        {
+            "assignment":"Minutes to seconds converter",
+            "info":"This application converts minutes to seconds, I built it with basic JavaScript.",
+            "image":"https://iili.io/JhDIjMF.png",
+            "github":"https://github.com/zubairmoerat/MinutesToSeconds.git",
+            "livelink":"https://minutes-to-seconds-three.vercel.app/"
+        },
+        {
+            "assignment":"My fisrt Ecommerce",
+            "info":"I used basic html and css to build an ecommerce site.",
+            "image":"https://iili.io/JhDAlFn.png",
+            "github":"https://github.com/zubairmoerat/Ecom.git",
+            "livelink":"https://ecom-seven-henna.vercel.app/"
+        }
+    ],
+    "testimonials":[
+        {
+            "name":"Daanyaal",
+            "surname":"Kellerman",
+            "quote":"I have had the pleasure of working closely with Zubair Moerat for several months, and I can confidently say that they are a standout professional in the software development field. Their expertise in data structures is truly impressive, and their dedication to delivering high-quality code is unmatched. Zubair Moerat consistently demonstrates excellent problem-solving skills and a proactive approach to tackling challenges. I highly recommend them for any software development project or role.",
+            "image":"https://iili.io/JhDY80P.jpg"
+        },
+        {
+            "name":"Niyaaz",
+            "surname":"Daniels",
+            "quote":"As a colleague of Zubair Moerat, I've witnessed firsthand their exceptional talent and commitment to excellence in software development. Zubair has a deep understanding of JavaScript Frameworks and a knack for finding innovative solutions to complex coding problems. Their strong communication skills and collaborative nature make them a valuable asset to any development team. I wholeheartedly endorse Zubair for their professionalism and expertise.",
+            "image":"https://iili.io/J7sUrlI.md.jpg"
+        },
+        {
+            "name":"Joel",
+            "surname":"Williams",
+            "quote":"Working alongside Zubair Moerat has been a rewarding experience, as they bring a wealth of knowledge and expertise to the table in the software development realm. Their meticulous attention to detail and ability to adapt to new programming languages and frameworks sets them apart as a top performer in their field. Zubair consistently delivers clean, efficient code, showcasing their strong coding practices and dedication to producing high-quality software. I would not hesitate to recommend Zubair for any software development endeavor.",
+            "image":"https://iili.io/JhDYyes.jpg"
+        },
+        {
+            "name":"Jodi",
+            "surname":"Abrahams",
+            "quote":"I've had the privilege of supervising Zubair Moerat in their role within our software development team, and I can attest to their outstanding work ethic and technical proficiency. Zubair consistently exceeds expectations with their innovative solutions and strategic insights into emerging technologies. Their collaborative approach and willingness to mentor others make them a valuable team member and leader. I have full confidence in recommending Zubair for any software development position or project",
+            "image":"https://iili.io/JhDjTQt.md.jpg"
+        },
+        {
+            "name":"Chad",
+            "surname":"Nelson",
+            "quote":"Having collaborated with Zubair Moerat on numerous software development projects, I can vouch for their exceptional skills and professionalism. Zubair possesses a unique blend of technical expertise and interpersonal abilities, allowing them to effectively communicate complex coding concepts to diverse audiences. Their passion for continuous learning and staying abreast of industry trends makes them a true asset to any software development team. I highly endorse Zubair for their contributions to the software development field.",
+            "image":"https://iili.io/J74V1s4.md.jpg"
+        },
+        {
+            "name":"Heather",
+            "surname":"",
+            "quote":"Their ability to write clean, scalable code and their keen eye for detail ensure that the software they deliver is of the highest quality. Beyond their technical abilities, Zubair is a fantastic team player, always willing to lend a hand and share their knowledge with colleagues. I have no hesitation in recommending Zubair for any software development endeavor, as they are truly an asset to any team.",
+            "image":"https://iili.io/JhDZlqu.md.jpg"
+        }
+    ]
+}
