@@ -1,5 +1,5 @@
 {
-    "Education":[
+    "education":[
         {
             "id": 1,
             "year":2019,
@@ -178,7 +178,7 @@
         },
         {
             "name":"Heather",
-            "surname":"",
+            "surname":"Mtuedwa",
             "quote":"Their ability to write clean, scalable code and their keen eye for detail ensure that the software they deliver is of the highest quality. Beyond their technical abilities, Zubair is a fantastic team player, always willing to lend a hand and share their knowledge with colleagues. I have no hesitation in recommending Zubair for any software development endeavor, as they are truly an asset to any team.",
             "image":"https://iili.io/JhDZlqu.md.jpg"
         }
