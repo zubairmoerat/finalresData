@@ -45,7 +45,7 @@
         {
             "id":8,
             "year":2024,
-            "description":"AWS cloud computing certifications and CISCO security certifications.",
+            "description":"AWS cloud computing certifications and CISCO security certifications, while working on client's applications.",
             "place":"Life Choices Studio"
         }
     ],
@@ -87,10 +87,6 @@
         {
             "tech":"MySQL",
             "image":"https://iili.io/JhtMAmX.png"
-        },
-        {
-            "tech":"Bootstrap",
-            "image":"https://iili.io/JhtXHg4.png"
         },
         {
             "tech":"Node JS",
