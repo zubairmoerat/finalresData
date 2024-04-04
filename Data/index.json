@@ -145,38 +145,32 @@
         {
             "name":"Daanyaal",
             "surname":"Kellerman",
-            "quote":"I have had the pleasure of working closely with Zubair Moerat for several months, and I can confidently say that they are a standout professional in the software development field. Their expertise in data structures is truly impressive, and their dedication to delivering high-quality code is unmatched. Zubair Moerat consistently demonstrates excellent problem-solving skills and a proactive approach to tackling challenges. I highly recommend them for any software development project or role.",
+            "quote":"I have had the pleasure of working closely with Zubair Moerat for several months, and I can confidently say that they are a standout professional in the software development field. Their expertise in data structures is truly impressive, and their dedication to delivering high-quality code is unmatched.",
             "image":"https://iili.io/JhDY80P.jpg"
         },
         {
             "name":"Niyaaz",
             "surname":"Daniels",
-            "quote":"As a colleague of Zubair Moerat, I've witnessed firsthand their exceptional talent and commitment to excellence in software development. Zubair has a deep understanding of JavaScript Frameworks and a knack for finding innovative solutions to complex coding problems. Their strong communication skills and collaborative nature make them a valuable asset to any development team. I wholeheartedly endorse Zubair for their professionalism and expertise.",
+            "quote":"As a colleague of Zubair Moerat, I've witnessed firsthand their exceptional talent and commitment to excellence in software development. Zubair has a deep understanding of JavaScript Frameworks and a knack for finding innovative solutions to complex coding problems. Their strong communication skills and collaborative nature make them a valuable asset to any development team.",
             "image":"https://iili.io/J7sUrlI.md.jpg"
         },
         {
             "name":"Joel",
             "surname":"Williams",
-            "quote":"Working alongside Zubair Moerat has been a rewarding experience, as they bring a wealth of knowledge and expertise to the table in the software development realm. Their meticulous attention to detail and ability to adapt to new programming languages and frameworks sets them apart as a top performer in their field. Zubair consistently delivers clean, efficient code, showcasing their strong coding practices and dedication to producing high-quality software. I would not hesitate to recommend Zubair for any software development endeavor.",
+            "quote":"Working alongside Zubair Moerat has been a rewarding experience, as they bring a wealth of knowledge and expertise to the table in the software development realm. Their meticulous attention to detail and ability to adapt to new programming languages and frameworks sets them apart as a top performer in their field.",
             "image":"https://iili.io/JhDYyes.jpg"
         },
         {
             "name":"Jodi",
             "surname":"Abrahams",
-            "quote":"I've had the privilege of supervising Zubair Moerat in their role within our software development team, and I can attest to their outstanding work ethic and technical proficiency. Zubair consistently exceeds expectations with their innovative solutions and strategic insights into emerging technologies. Their collaborative approach and willingness to mentor others make them a valuable team member and leader. I have full confidence in recommending Zubair for any software development position or project",
+            "quote":"I've had the privilege of supervising Zubair Moerat in their role within our software development team, and I can attest to their outstanding work ethic and technical proficiency. Zubair consistently exceeds expectations with their innovative solutions and strategic insights into emerging technologies.",
             "image":"https://iili.io/JhDjTQt.md.jpg"
         },
         {
             "name":"Chad",
             "surname":"Nelson",
-            "quote":"Having collaborated with Zubair Moerat on numerous software development projects, I can vouch for their exceptional skills and professionalism. Zubair possesses a unique blend of technical expertise and interpersonal abilities, allowing them to effectively communicate complex coding concepts to diverse audiences. Their passion for continuous learning and staying abreast of industry trends makes them a true asset to any software development team. I highly endorse Zubair for their contributions to the software development field.",
+            "quote":"Having collaborated with Zubair Moerat on numerous software development projects, I can vouch for their exceptional skills and professionalism. Zubair possesses a unique blend of technical expertise and interpersonal abilities, allowing them to effectively communicate complex coding concepts to diverse audiences.",
             "image":"https://iili.io/J74V1s4.md.jpg"
-        },
-        {
-            "name":"Heather",
-            "surname":"Mtuedwa",
-            "quote":"Their ability to write clean, scalable code and their keen eye for detail ensure that the software they deliver is of the highest quality. Beyond their technical abilities, Zubair is a fantastic team player, always willing to lend a hand and share their knowledge with colleagues. I have no hesitation in recommending Zubair for any software development endeavor, as they are truly an asset to any team.",
-            "image":"https://iili.io/JhDZlqu.md.jpg"
         }
     ]
 }
