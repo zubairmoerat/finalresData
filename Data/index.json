@@ -3,7 +3,7 @@
         {
             "id": 1,
             "year":2019,
-            "description":"I held an intern position within the companies' finance department.",
+            "description":"I held an intern position within the companie's finance department.",
             "place":"Mayfair Real Estate"
         },
         {
@@ -27,7 +27,7 @@
         {
             "id":5,
             "year":2022,
-            "description":"Worked as a junior motor technician.",
+            "description":"Worked as a motor technician.",
             "place":"Adnaan Klein Motor Repairs"
         },
         {
@@ -134,7 +134,7 @@
             "livelink":"https://minutes-to-seconds-three.vercel.app/"
         },
         {
-            "assignment":"My fisrt Ecommerce",
+            "assignment":"My first Ecommerce",
             "info":"I used basic html and css to build an ecommerce site.",
             "image":"https://iili.io/JhDAlFn.png",
             "github":"https://github.com/zubairmoerat/Ecom.git",
