@@ -127,7 +127,7 @@
             "livelink":"https://bm-icalculator-iota.vercel.app/"
         },
         {
-            "assignment":"Minutes to seconds converter",
+            "assignment":"Minutes to seconds",
             "info":"This application converts minutes to seconds, I built it with basic JavaScript.",
             "image":"https://iili.io/JhDIjMF.png",
             "github":"https://github.com/zubairmoerat/MinutesToSeconds.git",
