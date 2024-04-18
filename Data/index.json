@@ -15,7 +15,7 @@
         {
             "id":3,
             "year":2021,
-            "description":"Studied mechanical engineering and completed N2. I recieved certifications for first aid and safety officer.",
+            "description":"Studied mechanical engineering and completed N2. I received certifications for first aid and safety officer.",
             "place":"AESDP"       
         },
         {
@@ -107,7 +107,7 @@
         },
         {
             "assignment":"Fitness Fusion",
-            "info":"Fully functional ecommerce website that I built using HTML,CSS and JavaScript.",
+            "info":"Fully functional ecommerce website that I built using HTML, CSS and JavaScript.",
             "image":"https://iili.io/JhDqUBf.png",
             "github":"https://github.com/zubairmoerat/javaScript-EOMP.git",
             "livelink":"https://java-script-eomp.vercel.app/"
