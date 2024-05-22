@@ -49,6 +49,20 @@
             "place":"Life Choices Studio"
         }
     ],
+    "certs":[
+        {
+            "certname": "Operating Systems Basics",
+            "certimage":"https://iili.io/JihY6Sn.png"
+        },
+        {
+            "certname": "Cybersecurity Essentials",
+            "certimage":"https://iili.io/JihcD37.png"
+        },
+        {
+            "certname": "LC Studio SCRUM",
+            "certimage": "https://iili.io/JiWHxiF.png"
+        }
+    ],
     "softskills":[
         {
             "title":"Communication Skills",
